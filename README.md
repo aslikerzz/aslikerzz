@@ -1,7 +1,7 @@
 # 💫 About Me:
 💻 Development:<br>
-I'm currently working on a mobile app, using React Native and Expo Go.
-I know web languages like HTML, basics of JavaScript and MySQL, CSS.
+I'm currently working on a mobile app, using React Native and Expo Go.<br>
+I know web languages like HTML, basics of JavaScript and MySQL, CSS.<br>
 I've started to learn C.
 <br>
 
@@ -10,7 +10,7 @@ I'm currently learning network and cybersecurity basics, I'm aiming for CCNA and
 <br>
 
 ⚙️ System Administration:<br>
-I know Powershell and Batch.
+I know Powershell and Batch.<br>
 I used Active Directory and Windows Server.
 <br>
 
