@@ -11,7 +11,7 @@
 
 ⚙️ System Administration:<br>
 - I know Powershell and Batch.<br>
-- I used Active Directory and Windows Server.
+- I've used Active Directory and Windows Server.
 <br>
 
 🐧 Operating System:<br>
