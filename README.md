@@ -1,20 +1,20 @@
 # 💫 About Me:
-💻 Development:<br>
+💻 <u>Development:</u><br>
 - I'm currently working on a mobile app, using React Native and Expo Go.<br>
 - I know web languages like HTML, basics of JavaScript and MySQL, CSS.<br>
 - I've started to learn C.
 <br>
 
-🔒 Networking & Cybersecurity:<br>
+🔒 <u>Networking & Cybersecurity:</u><br>
 - I'm currently learning network and cybersecurity basics, I'm aiming for CCNA and CISCO certification.
 <br>
 
-⚙️ System Administration:<br>
+⚙️ <u>System Administration:</u><br>
 - I know Powershell and Batch.<br>
 - I used Active Directory and Windows Server.
 <br>
 
-🐧 Operating System:<br>
+🐧 <u>Operating System:</u><br>
 - I currently use EndeavourOS, based on Arch Linux!
 
 
