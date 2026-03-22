@@ -1,7 +1,7 @@
 # 💫 About Me:
 💻 Development:<br>
 - I'm currently working on a mobile app, using React Native and Expo Go.<br>
-- I know web languages like HTML, basics of JavaScript and MySQL, CSS.<br>
+- I know web languages such as HTML, basics of JavaScript and MySQL, CSS.<br>
 - I've started to learn C.
 <br>
 
