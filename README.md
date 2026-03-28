@@ -15,7 +15,7 @@
 <br>
 
 🐧 Operating System:<br>
-- I currently use EndeavourOS, based on Arch Linux!
+- I currently use EndeavourOS, based on Arch Linux!<br>
 (I may switch on Arch soon...)
 <br>
 
