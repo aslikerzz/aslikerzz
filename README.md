@@ -7,6 +7,7 @@
 
 🔒 Networking & Cybersecurity:<br>
 - I'm currently learning network and cybersecurity basics, I'm aiming for CISSP, and ComptIA Networking+ before 2027.<br>
+- Zero-trust technologies lover!<br>
 <br>
 
 ⚙️ System Administration:<br>
