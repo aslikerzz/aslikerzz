@@ -2,7 +2,7 @@ login: aslikerzz<br>
 password : ***********
 
 [aslikerzz@asl-inspiron153520 ~]$ cd aslik-life | nano aslikerzz.c
-
+```c
 GNU nano 8.1
 #!/bin/bash
 
@@ -11,7 +11,7 @@ GNU nano 8.1
 * Compiled with: gcc -Wall -02 -o aslikerzz aslikerzz.c
 * Last updated: 12/05/2026
 **/
-```c
+
 #include <life.h>
 #include <coffe.h>
 
