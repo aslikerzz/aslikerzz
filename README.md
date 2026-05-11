@@ -6,19 +6,22 @@
 <br>
 
 🔒 Networking & Cybersecurity:<br>
-- I'm currently learning network and cybersecurity basics, I'm aiming for CISSP, and ComptIA Networking+ before 2027.<br>
+- I'm currently working as an Admin Sys & Network, it's the best I love it!<br>
+- I'm also working on some side-projects related to OSED to try myself to network and system exploitation in C.<br>
 - Zero-trust technologies lover!<br>
 <br>
 
 ⚙️ System Administration:<br>
 - I know Powershell and Batch.<br>
-- I've used Active Directory and Windows Server.
+- I've used Active Directory and Windows Server.<br>
+- I'm currently using Ubuntu Server in my actual job.<br>
 <br>
 
 🐧 Operating System:<br>
 - I currently use EndeavourOS, based on Arch Linux!<br>
 (I may switch on Arch soon...)
 <br>
+
 
 
 ## 🌐 Socials:
