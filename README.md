@@ -12,21 +12,21 @@ GNU nano 8.1
 * Last updated: 12/05/2026
 **/
 ```c
-#include <life.h><br>
+#include <life.h>
 #include <coffe.h>
 
 #define BTW_I_USE_ENDEAVOUROS // arch based
 
-typedef struct {<br>
-    char *dev[]     = { "C", "C#", "MySQL", "React Native", "ExpoGo", "HTML/CSS", "JS" };<br>
-    char *sysadmin  = { "PowerShell", "Batch", "Active Directory", "Ubuntu Server" };<br>
-    char *obsession = { "Networking", "Cybersecurity", "OSED linked side-projects" };<br>
+typedef struct {
+    char *dev[]     = { "C", "C#", "MySQL", "React Native", "ExpoGo", "HTML/CSS", "JS" };
+    char *sysadmin  = { "PowerShell", "Batch", "Active Directory", "Ubuntu Server" };
+    char *obsession = { "Networking", "Cybersecurity", "OSED linked side-projects" };
 } aslikerzz;
 
-int main(void) {<br>
-    printf("Admin Sys & Network - I love my job!\n");<br>
-    printf("Zero-trust technologies enjoyer.\n");<br>
-    return 0;<br>
+int main(void) {
+    printf("Admin Sys & Network - I love my job!\n");
+    printf("Zero-trust technologies enjoyer.\n");
+    return 0;
 }
 ```
        
