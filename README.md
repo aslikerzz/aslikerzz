@@ -1,29 +1,35 @@
-# 💫 About Me:
-💻 Development:<br>
-- I worked on a mobile app, using React Native and Expo Go.<br>
-- I know web languages such as HTML, basics of JavaScript and MySQL, CSS.<br>
-- I've got my basics in C, and I'm trying myself to C# !<br>
-<br>
+login: aslikerzz<br>
+password : ***********
 
-🔒 Networking & Cybersecurity:<br>
-- I'm currently working as an Admin Sys & Network, it's the best I love it!<br>
-- I'm also working on some side-projects related to OSED to try myself to network and system exploitation in C.<br>
-- Zero-trust technologies lover!<br>
-<br>
+[aslikerzz@asl-inspiron153520 ~]$ cd aslik-life | nano aslikerzz.c
 
-⚙️ System Administration:<br>
-- I know Powershell and Batch.<br>
-- I've used Active Directory and Windows Server.<br>
-- I'm currently using Ubuntu Server in my actual job.<br>
-<br>
+GNU nano 8.1
+#!/bin/bash
 
-🐧 Operating System:<br>
-- I currently use EndeavourOS, based on Arch Linux!<br>
-(I may switch on Arch soon...)
-<br>
+/**
+* aslikerzz.c - Here's my life!
+* Compiled with: gcc -Wall -02 -o aslikerzz aslikerzz.c
+* Last updated: 12/05/2026
+**/
 
+#include <life.h>
+#include <coffe.h>
 
+#define BTW_I_USE_ENDEAVOUROS // arch based
 
+typedef struct {
+    char *dev[]     = { "C", "C#", "MySQL", "React Native", "ExpoGo", "HTML/CSS", "JS" };
+    char *sysadmin  = { "PowerShell", "Batch", "Active Directory", "Ubuntu Server" };
+    char *obsession = { "Networking", "Cybersecurity", "OSED linked side-projects" };
+} aslikerzz;
+
+int main(void) {
+    printf("Admin Sys & Network - I love my job!\n");
+    printf("Zero-trust technologies enjoyer.\n");
+    return 0;
+}
+
+       
 ## 🌐 Socials:
 ![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white) => 000hpp
 
