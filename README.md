@@ -11,7 +11,7 @@ GNU nano 8.1
 * Compiled with: gcc -Wall -02 -o aslikerzz aslikerzz.c
 * Last updated: 12/05/2026
 **/
-
+```c
 #include <life.h><br>
 #include <coffe.h>
 
@@ -28,7 +28,7 @@ int main(void) {<br>
     printf("Zero-trust technologies enjoyer.\n");<br>
     return 0;<br>
 }
-
+```
        
 ## 🌐 Socials:
 ![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white) => 000hpp
