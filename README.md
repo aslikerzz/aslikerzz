@@ -3,7 +3,7 @@ password : ***********
 
 [aslikerzz@asl-inspiron153520 ~]$ cd aslik-life | nano aslikerzz.c
 ```c
-GNU nano 8.1
+GNU nano 7.2
 #!/bin/bash
 
 /**
